@@ -1,3 +1,5 @@
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
+
 > **HOW TO INSTALL**
 
 1. Drag the files to your fivem server's files.
