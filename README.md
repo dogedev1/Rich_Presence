@@ -1,4 +1,4 @@
-FiveM Rich Presence.
+> **Note**: For longer README files, I usually add a "Back to top" buttton as shown above. It makes it easy to navigate.
 
 HOW TO INSTALL
 
@@ -8,3 +8,7 @@ HOW TO INSTALL
 4. Restart your server and join up!
 
 For other questions open a ticket in discord.gg/dogedev.
+
+```shell
+gh repo clone navendu-pottekkat/awesome-readme
+```
