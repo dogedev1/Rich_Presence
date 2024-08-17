@@ -1,3 +1,5 @@
+**FiveM Rich Presence**
+
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
 
 > **HOW TO INSTALL**
@@ -8,5 +10,5 @@
 4. Restart your server and join up!
 
 ```shell
-For other questions open a ticket in discord.gg/dogedev.
+For other questions open a ticket in discord.gg/dogedev
 ```
