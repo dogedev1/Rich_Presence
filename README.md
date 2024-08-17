@@ -1,5 +1,5 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-# Rich Presence [FIVEM]
+# Rich Presence [FiveM]
 Rich Presence for discord, shows on your discord profile as playing  with a fully customisable logo and title.
 
 ## HOW TO INSTALL
